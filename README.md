@@ -1,3 +1,3 @@
 # VR-glasses
-VR glasses site example
+VR glasses web-site example  
 Deploy: https://arkhipovanatoly.github.io/VR-glasses/
